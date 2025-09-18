@@ -1,5 +1,5 @@
 # 🛍️ Myntra Clone
-# [Myntra-Mimic](https://butkii025.github.io/Mimic-e-commerce-platform-/)
+# [📂 Folder Structure](https://butkii025.github.io/Mimic-e-commerce-platform-/)
 A responsive e-commerce web application inspired by [Myntra](https://www.myntra.com), built using HTML, CSS. This clone replicates a clean UI and dynamic interactions.
 
 ## 🚀 Features
@@ -15,6 +15,6 @@ A responsive e-commerce web application inspired by [Myntra](https://www.myntra.
 |----------|---------|
 | HTML     | CSS     | 
 
-## 📂 Folder Structure
+
 
 
