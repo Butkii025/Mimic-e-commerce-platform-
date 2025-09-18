@@ -1,6 +1,6 @@
 # 🛍️ Myntra Clone
 
-A responsive e-commerce web application inspired by [Myntra](https://www.myntra.com), built using HTML, CSS. This clone replicates core shopping features with a clean UI and dynamic interactions.
+A responsive e-commerce web application inspired by [Myntra](https://www.myntra.com), built using HTML, CSS. This clone replicates a clean UI and dynamic interactions.
 
 ## 🚀 Features
 
@@ -15,6 +15,6 @@ A responsive e-commerce web application inspired by [Myntra](https://www.myntra.
 |----------|---------|
 | HTML     | CSS     | 
 
-📂 Folder Structure
+## 📂 Folder Structure
 
 
